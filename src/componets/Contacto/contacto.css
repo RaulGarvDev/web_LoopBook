@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .formulario {
     background-color: #000839;
     padding-top: 30px;
@@ -5,10 +6,22 @@
 }
 
 .form-control {
+=======
+
+  .formulario{
+      background-color: #000839;
+      padding-top: 30px;
+      height: 700px;
+      width: 100%;
+  }
+  
+  .form-control {
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
     width: 50% !important;
     background-color: #ffa41b;
     border-color: #000839;
     padding: 10px;
+<<<<<<< HEAD
 }
 
 .h1form {
@@ -22,10 +35,33 @@ input {
 }
 
 input::placeholder {
+=======
+   
+  }
+   
+  .h1form{
+      color: white;
+  }
+
+  .boton{
+      padding-top: 20px;
+  }
+
+
+  input{
+    background-color: white;
+    border-color: #000839;
+    size: 80%;
+  
+  }
+
+  input::placeholder {
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
     background-color: white;
     border-color: #000839;
     font-size: 1.2em;
     font-style: oblique;
+<<<<<<< HEAD
 }
 
 textarea::placeholder {
@@ -50,3 +86,14 @@ textarea::placeholder {
         }
     }
 }
+=======
+  }
+
+
+  textarea::placeholder{
+    background-color: white;
+    font-size: 1.2em;
+    font-style: oblique;
+    
+  }
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73

@@ -73,7 +73,11 @@
   
 }
 
+<<<<<<< HEAD
 @media only screen and (max-width: 1200px) {
+=======
+@media only screen and (max-width: 768px) {
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
 
 
     
@@ -84,7 +88,10 @@
     height: 1000;
    display:table;
    padding: 10px 10px 10px 10px;
+<<<<<<< HEAD
    
+=======
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
 
     
   }
@@ -123,6 +130,7 @@
 
     
   }
+<<<<<<< HEAD
 
   @media only screen and (max-width: 768px) {
 
@@ -225,4 +233,6 @@
     
         
       }
+=======
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
  

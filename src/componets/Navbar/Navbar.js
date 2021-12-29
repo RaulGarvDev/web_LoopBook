@@ -35,10 +35,15 @@ export const Navbar = () => {
                         })}
                 
                 </ul> 
+<<<<<<< HEAD
                     <div className='boton'>
                         <Button>Sign up (Proximamente)</Button>
                     </div>
            
+=======
+               
+            <Button>Sign up (Proximamente)</Button>
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
            
         </nav>
     )

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 .NavbarItems {
+=======
+.NavbarItems{
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
     background: #000839;
     height: 80px;
     display: flex;
@@ -7,6 +11,7 @@
     font-size: 1.2rem;
 }
 
+<<<<<<< HEAD
 .navbar-logo {
     color: #ffa41b;
     justify-self: start;
@@ -14,6 +19,18 @@
     cursor: pointer;
 }
 
+=======
+
+.navbar-logo {
+    color:#ffa41b;
+    justify-self: start;
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+
+
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
 .fa-loopbook {
     margin-left: 0.5rem;
     font-size: 1.6rem;
@@ -21,6 +38,7 @@
 
 .nav-menu {
     display: grid;
+<<<<<<< HEAD
     grid-template-columns: repeat(5, auto);
     grid-gap: 10px;
     list-style: none;
@@ -28,6 +46,17 @@
     width: 70vw;
     justify-content: end;
     margin-right: 2rem;
+=======
+    grid-template-columns: repeat(5,auto);
+    grid-gap:10px;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content:end;
+    margin-right: 2rem;
+   
+
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
 }
 
 .nav-links {
@@ -36,12 +65,21 @@
     padding: 0.5rem 1rem;
 }
 
+<<<<<<< HEAD
 .nav-links:hover {
     background-color: blue;
     border-radius: 4px;
     transition: all 0.2s ease-out;
 }
 
+=======
+.nav-links:hover{
+    background-color: blue;
+    border-radius: 4px;
+    transition: all 0.2s ease-out;
+
+}
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
 .fa-bars {
     color: white;
 }
@@ -54,9 +92,13 @@
     display: none;
 }
 
+<<<<<<< HEAD
 
 /*
 @media screen and (max-width: 970px){
+=======
+@media screen and (max-width: 100px){
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
     .NavbarItems {
            position: relative;
         
@@ -143,6 +185,7 @@
          visibility: hidden;
       }
 
+<<<<<<< HEAD
      */
 
 @media screen and (max-width: 1200px) {
@@ -177,3 +220,10 @@
         display: none!important;
     }
 }
+=======
+     
+
+   
+
+}  
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73

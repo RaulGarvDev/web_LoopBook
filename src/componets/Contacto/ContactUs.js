@@ -56,6 +56,7 @@ export const ContactUs = () => {
                                 cols="40"
                                 name="message" />
                         </div>
+<<<<<<< HEAD
 
                       
                         <button type="submit" className="btn btn-primary">Enviar</button>
@@ -66,6 +67,13 @@ export const ContactUs = () => {
                 </form>
 
                 
+=======
+                        </fieldset>
+                    <div className="boton">
+                    <button type="submit" className="btn btn-primary">Enviar</button>
+                    </div>
+                </form>
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
           </div>
         </div>
   );

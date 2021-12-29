@@ -79,7 +79,11 @@ div h1{
  }
 
   
+<<<<<<< HEAD
   @media only screen and (max-width: 1200px) {
+=======
+  @media only screen and (max-width: 768px) {
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
 
  
 
@@ -87,7 +91,11 @@ div h1{
     background-color: #000839;
     height: 900;
     display:table-cell;
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
     
   }
 
@@ -136,6 +144,7 @@ span.sergio{
     }
     
   }
+<<<<<<< HEAD
  
 
   @media only screen and (max-width: 768px) {
@@ -253,3 +262,6 @@ span.sergio{
         }
         
       }
+=======
+ 
+>>>>>>> 1a8bed097bed0cf2b87496bf6e7075271ed7fb73
