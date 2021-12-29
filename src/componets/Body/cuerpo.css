@@ -1,0 +1,228 @@
+.cuerpo1 {
+  background-color: #000839;
+  background-image: url('../../assets/img/logo_loopbook_blanco.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 280px;
+  width: 100%; 
+  margin-top: 0px;
+ 
+  
+}
+
+.cuerpo1:hover{
+  transition: 2.5s;
+  width: 50%;
+  margin: 0.5rem auto;
+
+}
+
+.cuerpo2 {
+  background-color: #000839;
+  height: 310px;
+  width: 100%; 
+  display:grid;
+  grid-template-rows: auto;
+  margin-top: 0px;
+
+  
+  
+}
+
+.item-1 {
+  grid-row: 1; 
+  grid-column: 1;
+  height: 310px;
+  margin-left: 60px;
+}
+.item-2 {
+  grid-row: 1; 
+  grid-column: 2;
+  height: 310px;
+
+}
+.item-3 {
+  grid-row: 1; 
+  grid-column: 3;
+  height: 310px;
+  
+}
+.item-4 {
+  grid-row: 1; 
+  grid-column: 4;
+
+  height: 310px;
+}
+
+.item-5 {
+  grid-row: 1; 
+  grid-column: 5;
+  height: 310px;
+ 
+ 
+}
+
+.cuerpo3 {
+  background-color: #000839;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  padding: 20px;
+  width: 100%; 
+  margin-top: 0px;
+  
+  
+}
+
+@media only screen and (max-width: 1200px) {
+
+
+    
+ 
+
+  .cuerpo2{
+    background-color: #000839;
+    height: 1000;
+   display:table;
+   padding: 10px 10px 10px 10px;
+   
+
+    
+  }
+
+
+  .item-1 {
+   
+    height: 200px;
+    padding: 10px 10px 10px 10px;
+  }
+  .item-2 {
+   
+    height: 200px;
+    padding: 10px 10px 10px 10px;
+  
+  }
+  .item-3 {
+    height: 200px;
+    padding: 10px 10px 10px 10px;
+    
+  }
+  .item-4 {
+ 
+  
+    height: 200px;
+    padding: 10px 10px 10px 10px;
+  }
+  
+  .item-5 {
+  
+    height: 200px;
+    padding: 10px 10px 10px 10px;
+   
+   
+  }
+
+    
+  }
+
+  @media only screen and (max-width: 768px) {
+
+
+    
+ 
+
+    .cuerpo2{
+      background-color: #000839;
+      height: 1000;
+     display:table;
+     padding: 10px 10px 10px 10px;
+     
+  
+      
+    }
+  
+  
+    .item-1 {
+     
+      height: 200px;
+      padding: 10px 10px 10px 10px;
+    }
+    .item-2 {
+     
+      height: 200px;
+      padding: 10px 10px 10px 10px;
+    
+    }
+    .item-3 {
+      height: 200px;
+      padding: 10px 10px 10px 10px;
+      
+    }
+    .item-4 {
+   
+    
+      height: 200px;
+      padding: 10px 10px 10px 10px;
+    }
+    
+    .item-5 {
+    
+      height: 200px;
+      padding: 10px 10px 10px 10px;
+     
+     
+    }
+  
+      
+    }
+
+    @media only screen and (max-width: 320px) {
+
+
+    
+ 
+
+      .cuerpo2{
+        background-color: #000839;
+        height: 1000;
+       display:table;
+       padding: 10px 10px 10px 10px;
+       
+    
+        
+      }
+    
+    
+      .item-1 {
+       
+        height: 200px;
+        padding: 10px 10px 10px 10px;
+      }
+      .item-2 {
+       
+        height: 200px;
+        padding: 10px 10px 10px 10px;
+      
+      }
+      .item-3 {
+        height: 200px;
+        padding: 10px 10px 10px 10px;
+        
+      }
+      .item-4 {
+     
+      
+        height: 200px;
+        padding: 10px 10px 10px 10px;
+      }
+      
+      .item-5 {
+      
+        height: 200px;
+        padding: 10px 10px 10px 10px;
+       
+       
+      }
+    
+        
+      }
+ 
