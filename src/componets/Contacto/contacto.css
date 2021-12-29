@@ -1,0 +1,46 @@
+
+  .formulario{
+      background-color: #000839;
+      padding-top: 30px;
+      height: 700px;
+      width: 100%;
+  }
+  
+  .form-control {
+    width: 50% !important;
+    background-color: #ffa41b;
+    border-color: #000839;
+    padding: 10px;
+   
+  }
+   
+  .h1form{
+      color: white;
+  }
+
+  .boton{
+      padding-top: 20px;
+  }
+
+
+  input{
+    background-color: white;
+    border-color: #000839;
+    size: 80%;
+  
+  }
+
+  input::placeholder {
+    background-color: white;
+    border-color: #000839;
+    font-size: 1.2em;
+    font-style: oblique;
+  }
+
+
+  textarea::placeholder{
+    background-color: white;
+    font-size: 1.2em;
+    font-style: oblique;
+    
+  }
